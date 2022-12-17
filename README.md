@@ -89,7 +89,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://www.linkedin.com/in/jap-purohit"><img src="https://avatars.githubusercontent.com/u/67332925?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jap Purohit</b></sub></a><br /><a href="https://github.com/vinaykakkad/robot-motion-planning/commits?author=jappurohit041" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/varun1352"><img src="https://avatars.githubusercontent.com/u/65449940?v=4?s=100" width="100px;" alt=""/><br /><sub><b>varun1352</b></sub></a><br /><a href="https://github.com/vinaykakkad/robot-motion-planning/commits?author=varun1352" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/PoojanSheth29"><img src="https://avatars.githubusercontent.com/u/66819037?v=4?s=100" width="100px;" alt=""/><br /><b>Shail-1231</b></sub></a><br /><a href="https://github.com/vinaykakkad/robot-motion-planning/commits?author=Shail-1231" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/sahilmiskeen95"><img src="https://avatars.githubusercontent.com/u/82269456?v=4?s=100" width="100px;" alt=""/><br />
   </tr>
 </table>
 
