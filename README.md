@@ -10,7 +10,7 @@
 
 # Robot Motion Planning 🤖
 
-Given a starting position, ending position and number of obstacles, the program computes an optimal path using Markov Decision Processes
+Given a starting position, ending position, and number of obstacles, the program computes an optimal path using Markov Decision Processes
 
 
 ## Report 🧾
@@ -75,26 +75,6 @@ Python, tkinter, matplotlib, numpy
 [MIT](https://choosealicense.com/licenses/mit/)
 
   
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/vinaykakkad"><img src="https://avatars.githubusercontent.com/u/56934712?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vinay Kakkad</b></sub></a><br /><a href="https://github.com/vinaykakkad/robot-motion-planning/commits?author=vinaykakkad" title="Code">💻</a></td>
-    <td align="center"><a href="http://www.linkedin.com/in/jap-purohit"><img src="https://avatars.githubusercontent.com/u/67332925?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jap Purohit</b></sub></a><br /><a href="https://github.com/vinaykakkad/robot-motion-planning/commits?author=jappurohit041" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/varun1352"><img src="https://avatars.githubusercontent.com/u/65449940?v=4?s=100" width="100px;" alt=""/><br /><sub><b>varun1352</b></sub></a><br /><a href="https://github.com/vinaykakkad/robot-motion-planning/commits?author=varun1352" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/PoojanSheth29"><img src="https://avatars.githubusercontent.com/u/66819037?v=4?s=100" width="100px;" alt=""/><br /><b>Shail-1231</b></sub></a><br /><a href="https://github.com/vinaykakkad/robot-motion-planning/commits?author=Shail-1231" title="Code">💻</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
