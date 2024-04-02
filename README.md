@@ -4,10 +4,6 @@
   
 </div>
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
 # Robot Motion Planning 🤖
 
 Given a starting position, ending position, and number of obstacles, the program computes an optimal path using Markov Decision Processes
